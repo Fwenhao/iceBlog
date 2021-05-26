@@ -1,0 +1,32 @@
+package cn.fwhspace.iceblog.pojo.users;
+
+import cn.fwhspace.iceblog.common.enums.AccountStatus;
+import cn.fwhspace.iceblog.pojo.BasePojo;
+import io.swagger.annotations.ApiModel;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.io.Serializable;
+
+/**
+ * @author fwh
+ * @version 1.0
+ * @date 2020/12/7 15:24
+ * @description
+ */
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ApiModel(value = "帐号更改历史记录",description = "帐号更改历史记录实体类属性详情")
+@Builder
+public class UserAccountHistory extends BasePojo implements Serializable {
+
+    private static final long serialVersionUID = -7103073896783940595L;
+
+    private Integer userId;
+    private String userName;
+    private AccountStatus remark;
+
+}

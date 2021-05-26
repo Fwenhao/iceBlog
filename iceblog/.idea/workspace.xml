@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/service/impl/UserServiceImpl.java" line="104" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/dao/SearchDao.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63a5a93a-1bff-49fa-8f56-9ed1b1bb3201" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/enums/ActivateStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/enums/ActivateStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/utils/JWTUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/utils/JWTUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/mail/AliMailUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/mail/AliMailUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/qiniu/QiniuUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/qiniu/QiniuUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getDraftsByAuthor</find>
+      <find>updateHi</find>
+      <find>getAccessToken</find>
+      <find>updatepa</find>
+      <find>getpublish</find>
+      <find>getDraftsById</find>
+      <find>getreprinted</find>
+      <find>getr</find>
+      <find>insertreprinted</find>
+      <find>getcollectsinf</find>
+      <find>collectArticleId</find>
+      <find>updateCommentStatus</find>
+      <find>insertre</find>
+      <find>globleUtils</find>
+      <find>redisUtils</find>
+      <find>BucketManager</find>
+      <find>get</find>
+      <find>add</find>
+      <find>getUpToken</find>
+      <find>pagesize</find>
+      <find>test</find>
+      <find>ClassLoader</find>
+      <find>fastjson</find>
+      <find>aliMailUtils</find>
+      <find>userinfodto</find>
+      <find>ArticleStatus</find>
+      <find>getuserinfo</find>
+      <find>update</find>
+      <find>create</find>
+      <find>insert</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="fwh" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/UpLoadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/admin/AdminNotice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/qiniu/utils/QiniuUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BalanceCount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/T.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestDog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/GlobalConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MailTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/AliMailUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/mail/LoadHtml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/tripartite/mail/AliMailUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/enums/ActivateStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/mail.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/fwhspace/iceblog/MailTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/dto/UserUpdateDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/users/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/dto/UserSignInDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/enums/AccountIdentity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/utils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/dto/CommentDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/crossorigin/CrossOriginHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/Article.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/interceptors/JwtInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleBasePojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleDrafts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleBaseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleDraftsDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/service/impl/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/qiniu/controller/QiniuController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/service/impl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/collect/service/CollectService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/collect/controller/CollectController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/controller/AdminController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Project\tools\maven\maven-rep" />
+        <option name="userSettingsFile" value="D:\Project\tools\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="iceblog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="iceblog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="2425" />
+    <option name="height" value="1315" />
+  </component>
+  <component name="ProjectId" id="1sK61HRa2gSQ6hdgyqoTZu7DyYN" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AlibabaCommentsMustBeJavadocFormat</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="qiniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="businessmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="qiniu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="convert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iceblog" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iceblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="graduationproject" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="getAccessToken&#9;PSI&#9;JAVA://cn.fwhspace.iceblog.common.utils.GlobleUtils#getAccessToken&#10;re&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616593591790" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../solo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.fwhspace.iceblog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\graduationproject\src\main\java\cn\fwhspace\iceblog\common\convert" />
+      <recent name="D:\Project\graduationproject\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\graduationproject\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/controller/AdminController.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/controller/ArticleController.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleDTO.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/service/ArticleService.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/service/impl/ArticleServiceImpl.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/collect/dao/CollectDao.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/collect/service/impl/CollectServiceImpl.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/service/impl/SearchServiceImpl.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/resources/application.yml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IceBlogStart">
+    <configuration name="test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="graduationproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest.readHtml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.fwhspace.iceblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.fwhspace.iceblog" />
+      <option name="MAIN_CLASS_NAME" value="cn.fwhspace.iceblog.MailTest" />
+      <option name="METHOD_NAME" value="readHtml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.fwhspace.iceblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.fwhspace.iceblog" />
+      <option name="MAIN_CLASS_NAME" value="cn.fwhspace.iceblog.MailTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest.selectCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduationproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.fwhspace.iceblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.fwhspace.iceblog" />
+      <option name="MAIN_CLASS_NAME" value="cn.fwhspace.iceblog.MailTest" />
+      <option name="METHOD_NAME" value="selectCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTest.sendMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iceblog" />
+      <option name="PACKAGE_NAME" value="cn.fwhspace.iceblog" />
+      <option name="MAIN_CLASS_NAME" value="cn.fwhspace.iceblog.MailTest" />
+      <option name="METHOD_NAME" value="sendMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IceBlogStart (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="iceblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.fwhspace.iceblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fwhspace.iceblog.IceBlogStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IceBlogStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="graduationproject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.fwhspace.iceblog.IceBlogStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="JUnit.MailTest.sendMail" />
+      <item itemvalue="JUnit.MailTest.readHtml" />
+      <item itemvalue="JUnit.MailTest.selectCount" />
+      <item itemvalue="JUnit.MailTest.search" />
+      <item itemvalue="Spring Boot.IceBlogStart" />
+      <item itemvalue="Spring Boot.IceBlogStart (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IceBlogStart (1)" />
+        <item itemvalue="JUnit.MailTest.search" />
+        <item itemvalue="JUnit.MailTest.selectCount" />
+        <item itemvalue="JUnit.MailTest.sendMail" />
+        <item itemvalue="JUnit.MailTest.readHtml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63a5a93a-1bff-49fa-8f56-9ed1b1bb3201" name="Default Changelist" comment="" />
+      <created>1606103802704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606103802704</updated>
+      <workItem from="1606103805502" duration="13017000" />
+      <workItem from="1606118969530" duration="17000" />
+      <workItem from="1606119032768" duration="4553000" />
+      <workItem from="1606125521953" duration="2015000" />
+      <workItem from="1606182346542" duration="11006000" />
+      <workItem from="1606196081376" duration="1109000" />
+      <workItem from="1606197659021" duration="1517000" />
+      <workItem from="1606273081751" duration="4014000" />
+      <workItem from="1606278167504" duration="238000" />
+      <workItem from="1606290071969" duration="7714000" />
+      <workItem from="1606353728409" duration="4842000" />
+      <workItem from="1606358595583" duration="629000" />
+      <workItem from="1606359243634" duration="12352000" />
+      <workItem from="1606444314836" duration="1170000" />
+      <workItem from="1606445797846" duration="7861000" />
+      <workItem from="1606455232046" duration="4519000" />
+      <workItem from="1606465984577" duration="718000" />
+      <workItem from="1606576922796" duration="11000" />
+      <workItem from="1606700421120" duration="22657000" />
+      <workItem from="1606791569176" duration="9565000" />
+      <workItem from="1606818464132" duration="1088000" />
+      <workItem from="1606875184602" duration="1634000" />
+      <workItem from="1606888477429" duration="8446000" />
+      <workItem from="1606959080398" duration="21660000" />
+      <workItem from="1606992613139" duration="1187000" />
+      <workItem from="1607074288422" duration="4076000" />
+      <workItem from="1607078628810" duration="968000" />
+      <workItem from="1607303202620" duration="23778000" />
+      <workItem from="1607392169499" duration="17280000" />
+      <workItem from="1607417330846" duration="902000" />
+      <workItem from="1607475890115" duration="9708000" />
+      <workItem from="1607490646797" duration="16152000" />
+      <workItem from="1607651638552" duration="17821000" />
+      <workItem from="1607682637750" duration="36000" />
+      <workItem from="1607935562130" duration="617000" />
+      <workItem from="1608097698600" duration="95000" />
+      <workItem from="1608180967773" duration="1193000" />
+      <workItem from="1608618594252" duration="10163000" />
+      <workItem from="1608633895681" duration="965000" />
+      <workItem from="1608686277538" duration="2681000" />
+      <workItem from="1608689507809" duration="3099000" />
+      <workItem from="1608692628738" duration="17662000" />
+      <workItem from="1608772189350" duration="3423000" />
+      <workItem from="1608785345236" duration="106000" />
+      <workItem from="1608807903533" duration="9000" />
+      <workItem from="1609206409196" duration="4365000" />
+      <workItem from="1609291157146" duration="407000" />
+      <workItem from="1609821130293" duration="974000" />
+      <workItem from="1609846831842" duration="869000" />
+      <workItem from="1609899525426" duration="21927000" />
+      <workItem from="1609982940601" duration="3024000" />
+      <workItem from="1610067960409" duration="9554000" />
+      <workItem from="1610165153483" duration="14317000" />
+      <workItem from="1610248586835" duration="1939000" />
+      <workItem from="1610327664943" duration="14029000" />
+      <workItem from="1610361391555" duration="1073000" />
+      <workItem from="1610416394169" duration="13612000" />
+      <workItem from="1610457050530" duration="102000" />
+      <workItem from="1610457269451" duration="1211000" />
+      <workItem from="1610460253540" duration="102000" />
+      <workItem from="1610509959323" duration="109000" />
+      <workItem from="1610510435692" duration="7959000" />
+      <workItem from="1610587763051" duration="10822000" />
+      <workItem from="1610705294763" duration="3914000" />
+      <workItem from="1610769179323" duration="8355000" />
+      <workItem from="1610854889299" duration="2130000" />
+      <workItem from="1610938874213" duration="6454000" />
+      <workItem from="1611028623129" duration="5242000" />
+      <workItem from="1611115138927" duration="2761000" />
+      <workItem from="1611190405565" duration="2283000" />
+      <workItem from="1611222426806" duration="13000" />
+      <workItem from="1611222464352" duration="8000" />
+      <workItem from="1611880119367" duration="1364000" />
+      <workItem from="1612231332667" duration="2950000" />
+      <workItem from="1612499051017" duration="6493000" />
+      <workItem from="1612690033728" duration="60000" />
+      <workItem from="1612754610191" duration="14050000" />
+      <workItem from="1612838842352" duration="1206000" />
+      <workItem from="1612850186688" duration="5444000" />
+      <workItem from="1612923787609" duration="4709000" />
+      <workItem from="1613270654115" duration="8168000" />
+      <workItem from="1613357485291" duration="5979000" />
+      <workItem from="1613386232760" duration="3600000" />
+      <workItem from="1613392558319" duration="2833000" />
+      <workItem from="1613397079570" duration="2751000" />
+      <workItem from="1613444266575" duration="1450000" />
+      <workItem from="1613445930419" duration="619000" />
+      <workItem from="1613453192404" duration="946000" />
+      <workItem from="1613631122730" duration="55000" />
+      <workItem from="1613638788927" duration="316000" />
+      <workItem from="1613702123315" duration="5809000" />
+      <workItem from="1614752776232" duration="1375000" />
+      <workItem from="1614823426368" duration="21079000" />
+      <workItem from="1615354934237" duration="13823000" />
+      <workItem from="1615424440382" duration="6536000" />
+      <workItem from="1616255264010" duration="196000" />
+      <workItem from="1616255522187" duration="201000" />
+      <workItem from="1616293895014" duration="8283000" />
+      <workItem from="1616332586069" duration="1331000" />
+      <workItem from="1616410171240" duration="161000" />
+      <workItem from="1616410780375" duration="675000" />
+      <workItem from="1616502014043" duration="2635000" />
+      <workItem from="1616584623143" duration="1827000" />
+      <workItem from="1620608778618" duration="5282000" />
+      <workItem from="1620717154919" duration="2713000" />
+      <workItem from="1620789077727" duration="7251000" />
+      <workItem from="1620962889163" duration="5915000" />
+      <workItem from="1621235762443" duration="4434000" />
+      <workItem from="1621300096950" duration="518000" />
+      <workItem from="1621322675425" duration="4515000" />
+      <workItem from="1621387285351" duration="259000" />
+      <workItem from="1621996264971" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="细化业务流程&#10;1.获取文章详情&#10;2.新增分页查询配制&#10;3.新增文章随机推荐&#10;4.新增资源检索相关接口">
+      <created>1606977087259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606977087259</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.使用jwt，完成对接口请求权限的校验">
+      <created>1607079537321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607079537321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.数据库新增user_account_history表（记录用户操作）&#10;2.数据库新增user_info_history表（记录用户更新操作）&#10;3.参数命名规范化&#10;4.新增BasePojo作为参数共通父类&#10;5.TableFiled(fill) 参数自动填充重写">
+      <created>1607337048689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607337048689</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.数据库新增article_drafts表（草稿箱表）&#10;2.数据库新增article_reprinted表（记录用户转载操作）&#10;3.参数命名规范化(article)&#10;4.新增文章转载功能&#10;5.新增草稿箱功能（信息获取（id、author）、文本暂存、文章发布）&#10;6.重新梳理文章业务逻辑操作">
+      <created>1607418147104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607418147104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.数据库新增article_update_history表（文章更新历史记录表）&#10;2.article 公共字段提取，封装成ArticleBase作为父类，所有对应子类继承&#10;3.完成博客更改历史记录功能&#10;4.完成博客发布记录功能&#10;5.重新梳理文章业务逻辑操作&#10;6.明天预计整理冗余代码">
+      <created>1607519064171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607519064171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.评论模块字段规范化&#10;&#10;2.重构评论点赞方法&#10;&#10;3.新增评论删除接口，回复删除接口。&#10;&#10;4.新增评论回复接口。&#10;&#10;5.新增评论、回复状态更新功能（在被查看后状态0→1）&#10;&#10;6.数据库新增comment_reply表">
+      <created>1607680559549</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607680559549</updated>
+    </task>
+    <task id="LOCAL-00007" summary="     引入redis缓存，完成对用户token信息加密。保障用户信息安全性，设置token过期时长为15分钟，且过期自动刷新；redis用户的key为uuid，过期时长为七天。解决在拦截器中，redisUtils工具类无法注入的问题（空指针），其原因是因为拦截器的执行是在spring容器中bean初始化之前的，拦截器执行时，spring中我们定义的bean还未初始化，自然也就无法自动注入，无法使用。&#10;     解决方法就是让拦截器在执行的时候，实例化拦截器Bean，这样就可以成功获取到了。">
+      <created>1608775249982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608775249982</updated>
+    </task>
+    <task id="LOCAL-00008" summary="     引入redis缓存，完成对用户token信息加密。保障用户信息安全性，设置token过期时长为15分钟，且过期自动刷新；redis用户的key为uuid，过期时长为七天。解决在拦截器中，redisUtils工具类无法注入的问题（空指针），其原因是因为拦截器的执行是在spring容器中bean初始化之前的，拦截器执行时，spring中我们定义的bean还未初始化，自然也就无法自动注入，无法使用。&#10;     解决方法就是让拦截器在执行的时候，实例化拦截器Bean，这样就可以成功获取到了。">
+      <created>1608785441071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608785441071</updated>
+    </task>
+    <task id="LOCAL-00009" summary="     将数据库迁移至云端。">
+      <created>1609900568630</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609900568630</updated>
+    </task>
+    <task id="LOCAL-00010" summary="优化分页查询，将分页和检索合并为一个接口。优化检索字段过滤。对一些公共接口放开权限，完善用户功能。">
+      <created>1609922945584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609922945584</updated>
+    </task>
+    <task id="LOCAL-00011" summary="发现之前用户信息二级加密bug，只是本地token刷新，redis服务器上并没有刷新。新增全局获取token工具类，jwtUtils加入token信息提取。放开实体类一些不必要字段的数据填充。">
+      <created>1610082190495</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610082190496</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增加用户浏览记录表，对每一次浏览进行历史记录。若没有登录，则不记录，采取accessToken作为判断入口。">
+      <created>1610187204111</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610187204112</updated>
+    </task>
+    <task id="LOCAL-00013" summary="优化了一下文章收藏的接口。在登录时把user的用keyId也封装进去了">
+      <created>1610343103727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610343103727</updated>
+    </task>
+    <task id="LOCAL-00014" summary="将评论类里面的逻辑做了一个梳理，优化了一下逻辑处理。新增了几个批量删除的接口">
+      <created>1610608028310</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610608028310</updated>
+    </task>
+    <task id="LOCAL-00015" summary="修改数据库地址，远程分支">
+      <created>1612510592346</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612510592346</updated>
+    </task>
+    <task id="LOCAL-00016" summary="返回结果集时间不对  修改了时间类型">
+      <created>1612513070552</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612513070552</updated>
+    </task>
+    <task id="LOCAL-00017" summary="新增管理员公告通知发布接口，替换掉首页的文章接口，用户加入身份认证（普通用户和管理员）">
+      <created>1612768724075</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1612768724075</updated>
+    </task>
+    <task id="LOCAL-00018" summary="检索出来的分页按照时间降序排列，推荐列表按照热度降序排列">
+      <created>1612769635269</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612769635269</updated>
+    </task>
+    <task id="LOCAL-00019" summary="远程分支代码合并">
+      <created>1615098361925</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1615098361925</updated>
+    </task>
+    <task id="LOCAL-00020" summary="添加用户详情获取接口（总访问量，文章原创数，收藏），整合阿里云邮件推送服务-添加用户注册邮箱认证">
+      <created>1615113603150</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1615113603150</updated>
+    </task>
+    <task id="LOCAL-00021" summary="对用户添加身份字段：STUDENT(学生),WORKER(工作者),TEACHER(教育从事者)。对应用户身份，文章标识时可作为检索判断，提高检索的准确性。">
+      <created>1615368099397</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1615368099398</updated>
+    </task>
+    <task id="LOCAL-00022" summary="将文章标签类型改为list，配合前端标签渲染时，根据下标遍历。但这里类型转换的时候有点问题，需要改进。">
+      <created>1616333738922</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1616333738922</updated>
+    </task>
+    <task id="LOCAL-00023" summary="跨域interception位置换了换">
+      <created>1616333844294</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1616333844294</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 17h 13m 51s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 17h 14m 54s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 17h 15m 32s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 17h 17m 02s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 17h 26m 06s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 17h 31m 15s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_selectCount - 2021.03.07 at 18h 30m 31s.xml">
+      <configuration name="MailTest.selectCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_search - 2021.03.10 at 14h 03m 04s.xml">
+      <configuration name="MailTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_search - 2021.03.10 at 14h 03m 58s.xml">
+      <configuration name="MailTest.search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MailTest_search - 2021.03.10 at 14h 09m 24s.xml">
+      <configuration name="MailTest.search" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="552296000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23827292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.48016998" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.22366993" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40425533" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013405" side_tool="true" weight="0.3815603" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.06948969" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.15511727" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Translate" order="10" />
+      <window_info anchor="right" id="Word Book" order="11" side_tool="true" />
+      <window_info anchor="right" id="Translation Assistant" order="12" weight="0.3296875" />
+      <window_info anchor="right" id="Maven" order="13" visible="true" weight="0.02010724" />
+      <window_info anchor="right" id="BPMNPalette" order="14" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="细化业务流程&#10;1.获取文章详情&#10;2.新增分页查询配制&#10;3.新增文章随机推荐&#10;4.新增资源检索相关接口" />
+    <MESSAGE value="1.使用jwt，完成对接口请求权限的校验" />
+    <MESSAGE value="1.数据库新增user_account_history表（记录用户操作）&#10;2.数据库新增user_info_history表（记录用户更新操作）&#10;3.参数命名规范化&#10;4.新增BasePojo作为参数共通父类&#10;5.TableFiled(fill) 参数自动填充重写" />
+    <MESSAGE value="1.数据库新增article_drafts表（草稿箱表）&#10;2.数据库新增article_reprinted表（记录用户转载操作）&#10;3.参数命名规范化(article)&#10;4.新增文章转载功能&#10;5.新增草稿箱功能（信息获取（id、author）、文本暂存、文章发布）&#10;6.重新梳理文章业务逻辑操作" />
+    <MESSAGE value="1.数据库新增article_update_history表（文章更新历史记录表）&#10;2.article 公共字段提取，封装成ArticleBase作为父类，所有对应子类继承&#10;3.完成博客更改历史记录功能&#10;4.完成博客发布记录功能&#10;5.重新梳理文章业务逻辑操作&#10;6.明天预计整理冗余代码" />
+    <MESSAGE value="1.评论模块字段规范化&#10;&#10;2.重构评论点赞方法&#10;&#10;3.新增评论删除接口，回复删除接口。&#10;&#10;4.新增评论回复接口。&#10;&#10;5.新增评论、回复状态更新功能（在被查看后状态0→1）&#10;&#10;6.数据库新增comment_reply表" />
+    <MESSAGE value="     引入redis缓存，完成对用户token信息加密。保障用户信息安全性，设置token过期时长为15分钟，且过期自动刷新；redis用户的key为uuid，过期时长为七天。解决在拦截器中，redisUtils工具类无法注入的问题（空指针），其原因是因为拦截器的执行是在spring容器中bean初始化之前的，拦截器执行时，spring中我们定义的bean还未初始化，自然也就无法自动注入，无法使用。&#10;     解决方法就是让拦截器在执行的时候，实例化拦截器Bean，这样就可以成功获取到了。" />
+    <MESSAGE value="     将数据库迁移至云端。" />
+    <MESSAGE value="优化分页查询，将分页和检索合并为一个接口。优化检索字段过滤。对一些公共接口放开权限，完善用户功能。" />
+    <MESSAGE value="发现之前用户信息二级加密bug，只是本地token刷新，redis服务器上并没有刷新。新增全局获取token工具类，jwtUtils加入token信息提取。放开实体类一些不必要字段的数据填充。" />
+    <MESSAGE value="增加用户浏览记录表，对每一次浏览进行历史记录。若没有登录，则不记录，采取accessToken作为判断入口。" />
+    <MESSAGE value="优化了一下文章收藏的接口。在登录时把user的用keyId也封装进去了" />
+    <MESSAGE value="将评论类里面的逻辑做了一个梳理，优化了一下逻辑处理。新增了几个批量删除的接口" />
+    <MESSAGE value="修改数据库地址，远程分支" />
+    <MESSAGE value="返回结果集时间不对  修改了时间类型" />
+    <MESSAGE value="新增管理员公告通知发布接口，替换掉首页的文章接口，用户加入身份认证（普通用户和管理员）" />
+    <MESSAGE value="检索出来的分页按照时间降序排列，推荐列表按照热度降序排列" />
+    <MESSAGE value="远程分支合并" />
+    <MESSAGE value="远程分支代码合并" />
+    <MESSAGE value="添加用户详情获取接口（总访问量，文章原创数，收藏），整合阿里云邮件推送服务-添加用户注册邮箱认证" />
+    <MESSAGE value="对用户添加身份字段：STUDENT(学生),WORKER(工作者),TEACHER(教育从事者)。对应用户身份，文章标识时可作为检索判断，提高检索的准确性。" />
+    <MESSAGE value="将文章标签类型改为list，配合前端标签渲染时，根据下标遍历。但这里类型转换的时候有点问题，需要改进。" />
+    <MESSAGE value="跨域interception位置换了换" />
+    <option name="LAST_COMMIT_MESSAGE" value="跨域interception位置换了换" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request/</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.getRequestURI()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1/0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getBindingResult().getFieldError().getDefaultMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.0/spring-boot-2.4.0.jar!/org/springframework/boot/web/servlet/error/DefaultErrorAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/handler/AbstractHandlerMethodExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/handler/HandlerExceptionResolverComposite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/handler/AbstractHandlerExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/mvc/annotation/ResponseStatusExceptionResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.1/spring-core-5.3.1.jar!/org/springframework/core/annotation/AnnotatedElementUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.1/spring-core-5.3.1.jar!/org/springframework/core/annotation/PackagesAnnotationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.1/spring-core-5.3.1.jar!/org/springframework/core/annotation/AnnotationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.1/spring-webmvc-5.3.1.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="547" selection-start-line="547" selection-end-line="547" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/interceptors/JwtInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/interceptors/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/interceptors/RequestLogRecordInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/dto/UserSignInDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleBasePojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleBrowseHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleDrafts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleReprinted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/BasePojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/pojo/articles/ArticleUpdateHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleBaseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/convert/IConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/config/interceptors/CrossOriginHandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/handler/ListToStringHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/convert/BaseConverterUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleDraftsDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleReprintedDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleTimeLineDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleUDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/dto/ArticleUpdateHistoryDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/common/utils/JwtUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret line="148" column="45" selection-start-line="148" selection-start-column="45" selection-end-line="148" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/service/impl/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="92" column="48" lean-forward="true" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/search/dao/SearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/qiniu/controller/QiniuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/service/impl/CommentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="e#1617#1618#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#2569#2570#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/collect/service/CollectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/comment/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/collect/controller/CollectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/service/impl/ArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="90" column="46" lean-forward="true" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/article/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#4269#4270#0" expanded="true" />
+            <element signature="e#4320#4321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/fwhspace/iceblog/businessmodule/admin/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>graduationproject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

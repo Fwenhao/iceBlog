@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration >
+    <!--定义日志文件的存储地址 勿在 LogBack 的配置中使用相对路径-->
+    <property name="LOG_HOME" value="/home" />
+    <!-- 控制台输出 -->
+    <appender name="stdio" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} : %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--请求日志输出-->
+    <appender name="requestLog" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS}  %-5level %logger{50} :
+                %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--异常日志输出-->
+    <appender name="exceptionLog" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %logger{50} :
+                %class
+                %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--参数校验日志输出-->
+    <appender name="validLog" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %class  %-5level %logger{50} :
+                %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--授权日志信息-->
+    <appender name="authLog" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS}  %-5level %logger{50} :
+                %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--切面日志信息-->
+    <appender name="aspectLog" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS}  %-5level %logger{50} :
+                %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--elk输出-->
+    <!-- logstash 配置部分 appanme 根据实际情况修改 -->
+    <appender name="stash" class="net.logstash.logback.appender.LogstashTcpSocketAppender">
+        <destination>file.zjhwork.xyz:4561</destination>
+        <encoder charset="UTF-8" class="net.logstash.logback.encoder.LogstashEncoder" >
+            <customFields>{"appname":"iceblog"}</customFields>
+        </encoder>
+    </appender>
+    <!--日志输出级别-->
+    <logger level="DEBUG" name="requestLog">
+        <appender-ref ref="stash" />
+        <appender-ref ref="requestLog"/>
+    </logger>
+    <logger level="ERROR" name="exceptionLog">
+        <appender-ref ref="exceptionLog"/>
+    </logger>
+    <logger level="ERROR" name="validLog">
+        <appender-ref ref="validLog"/>
+    </logger>
+    <logger level="DEBUG" name="authLog">
+        <appender-ref ref="authLog"/>
+    </logger>
+    <logger level="debug" name="stdio">
+        <appender-ref ref="stdio" />
+    </logger>
+
+</configuration>
